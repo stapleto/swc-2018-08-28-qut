@@ -443,7 +443,7 @@ collaborative_notes: http://pad.software-carpentry.org/qut20182 # optional: URL 
         nano is a basic editor and the default that instructors use in the workshop.
         To install it,
         download the <a href="https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe">       
-	Windows installer</a>
+	Software Carpentry Windows installer</a>
         and double click on the file to run it.
         <strong>This installer requires an active internet connection.</strong>
       </p>
